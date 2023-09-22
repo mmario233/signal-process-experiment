@@ -1,0 +1,8 @@
+﻿  OFDM.cpp
+D:\OneDrive备份\OneDrive - bupt.edu.cn\大二下\信号处理实验\信号处理实验\实验3-频率分析与离散傅氏变换\OFDM\OFDM\OFDM.cpp(30,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OneDrive备份\OneDrive - bupt.edu.cn\大二下\信号处理实验\信号处理实验\实验3-频率分析与离散傅氏变换\OFDM\OFDM\OFDM.cpp(83,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OneDrive备份\OneDrive - bupt.edu.cn\大二下\信号处理实验\信号处理实验\实验3-频率分析与离散傅氏变换\OFDM\OFDM\OFDM.cpp(121,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OneDrive备份\OneDrive - bupt.edu.cn\大二下\信号处理实验\信号处理实验\实验3-频率分析与离散傅氏变换\OFDM\OFDM\OFDM.cpp(164,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
+OFDM.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:REF”规范)
+  OFDM.vcxproj -> D:\OneDrive备份\OneDrive - bupt.edu.cn\大二下\信号处理实验\信号处理实验\实验3-频率分析与离散傅氏变换\OFDM\x64\Debug\OFDM.exe
